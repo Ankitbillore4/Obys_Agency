@@ -187,7 +187,6 @@ function footerAnimation() {
   })
   document.querySelector("#footer h2").innerHTML = clutter2
 
-
   document.querySelector("#footer-text").addEventListener("mouseenter", function () {
     gsap.to("#footer h1 span", {
       opacity: 0,
