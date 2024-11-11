@@ -212,7 +212,7 @@ function footerAnimation() {
   })
 }
 
-
+// calling all functions
 
 loadingAnimation();
 cursorAnimation();
