@@ -173,7 +173,6 @@ function flagAnimation() {
       opacity: 0
     })
   })
-
 }
 function footerAnimation() {
 
